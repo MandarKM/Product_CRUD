@@ -1,0 +1,13 @@
+*{
+    padding: 20px;
+    flex-wrap: nowrap;
+}
+
+
+.thumb-image{
+    width: 100px;
+}
+
+.update-image{
+    width: 120px;
+}
